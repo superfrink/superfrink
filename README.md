@@ -2,6 +2,7 @@
   - Blocking malicious traffic on the internet at https://www.projectton.com/
 - &#128506; Where else to find me ...
   - Daytime GitHub at https://github.com/Chad-Chata
+  - GitLab at https://gitlab.com/superfrink
   - LinkedIn at https://ca.linkedin.com/in/chadclark
 
 <!--
