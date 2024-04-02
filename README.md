@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on ...
   - Blocking malicious traffic on the internet at https://www.projectton.com/
 - 📫 How to reach me ...
-  - Work GitHub at https://github.com/Chad-Chata
+  - Daytime GitHub at https://github.com/Chad-Chata
 
 <!--
 **superfrink/superfrink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
