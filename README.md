@@ -4,6 +4,7 @@
   - Daytime GitHub at https://github.com/Chad-Chata
   - GitLab at https://gitlab.com/superfrink
   - LinkedIn at https://ca.linkedin.com/in/chadclark
+  - Personal at https://superfrink.net/chad.html
 
 <!--
 **superfrink/superfrink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
