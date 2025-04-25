@@ -1,7 +1,8 @@
 - 🔭 I’m currently working on ...
   - Blocking malicious traffic on the internet at https://www.projectton.com/
 - &#128506; Where else to find me ...
-  - Daytime GitHub at https://github.com/Chad-Chata
+  - Daytime GitHub at https://github.com/rtk-ChadClark
+  - Previous daytime GitHub at https://github.com/Chad-Chata
   - GitLab at https://gitlab.com/superfrink
   - LinkedIn at https://ca.linkedin.com/in/chadclark
   - Personal at https://superfrink.net/chad.html
